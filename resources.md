@@ -1,0 +1,4 @@
+*  **Sublime Stitching**---The penultimate embroidery shop. Jenny Hart, a former Austinite and current Californian, started Sublime out of her house in Windsor Park, Austin (right around the corner from my house!) before expanding a bit and moving to California. Their website has tutorials, materials, and inspiration galore. Sign up for the newsletter to get free tutorials delivered right to your email.
+*  **Hawthorne Handmade**---Hawthorne Handmade makes beautiful embroidery hoops for displaying or gifting your stitching and other high-end embroidery supplies.
+*  **Local stitching meetups**---These are Austin specific, but do a search on Meetup.com or by simply Googling to see if there is a stitching meetup in your area.
+*  **Instagram**---There are so many great accounts, hashtags, and inspirational videos and tutorials to help support your new habit!
