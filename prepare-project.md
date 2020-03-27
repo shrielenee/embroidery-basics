@@ -61,6 +61,14 @@ Supplies you may need include:
 
 ## Transfer your design
 
+There are MANY ways to transfer your design to your fabric to prepare it all for stitching. Everyone has their favorite method, and mine (currently) happens to be:
+
+1. Find a design and print it.
+1. Trace it with a transfer pen.
+1. Iron the design onto my fabric.
+
+I'll go over a few ways to get your design onto the fabric so you can start stitching! Try different methods to see what works best for you and your fabric.
+
 ## Mount your fabric
 
 ## Set yourself up for success
