@@ -7,15 +7,16 @@ This is a work-in-progress set of simple instructions for getting started with h
 This set of instructions is for my niece, but is applicable to any first time or beginner stitcher who wants to learn the basics of hand embroidery.
 
 Sections include:
-  * Choosing a fabric
-  * Gathering supplies
-  * Selecting and preparing a template/pattern
-  * Transferring a template/pattern to fabric
-  * Setting yourself up for success
-  * Stitching techniques
-  * Tips and tricks
-  * Resources for more learning
-  * Resources for supplies
+
+*  Choosing a fabric
+*  Gathering supplies
+*  Selecting and preparing a template/pattern
+*  Transferring a template/pattern to fabric
+*  Setting yourself up for success
+*  Stitching techniques
+*  Tips and tricks
+*  Resources for more learning
+*  Resources for supplies
 
 ## Contribute
 
