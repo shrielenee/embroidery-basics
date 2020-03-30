@@ -8,15 +8,17 @@ This set of instructions is for my niece, but is applicable to any first time or
 
 Sections include:
 
-*  Choosing a fabric
-*  Gathering supplies
-*  Selecting and preparing a template/pattern
-*  Transferring a template/pattern to fabric
-*  Setting yourself up for success
-*  Stitching techniques
-*  Tips and tricks
-*  Resources for more learning
-*  Resources for supplies
+*  [Gather materials](gather-materials.md)
+   *  [Find a design](gather-materials.md#find-a-design)
+   *  [Get supplies](gather-materials.md#get-supplies)
+*  [Prepare your embroidery project](prepare-project.md)
+   *  [Transfer your design](prepare-project.md#transfer-your-design)
+      *  [Iron on pre-made pattern](prepare-project.md#iron-on-pre-made-pattern)
+      *  [Use a transfer pen](prepare-project.md#use-a-transfer-pen)
+      *  [Draw onto fabric](prepare-project.md#draw-onto-fabric)
+      *  [Use Sticky Fabri-Solvy](prepare-project.md#use-sticky-fabri-solvy)
+   *  [Mount your fabric](prepare-project.md#mount-your-fabric)
+   *  [Set yourself up for success](prepare-project.md#set-yourself-up-for-success)
 
 ## Contribute
 
