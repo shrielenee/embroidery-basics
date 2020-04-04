@@ -22,9 +22,9 @@ Sections include:
 
 ## Contribute
 
-If you want to contribute to this repo you can edit any repo content right within GitHub, or clone this repo and [submit a pull request](https://github.com/shrielenee/embroidery-basics/compare)!
+If you want to contribute to this repo you can edit any of the content right within GitHub, or clone this repo and [submit a pull request](https://github.com/shrielenee/embroidery-basics/compare)!
 
-You may also report issues with this repo via the [Issues tab](https://github.com/shrielenee/embroidery-basics/issues).
+You may also report issues with this repo or its content via the [Issues tab](https://github.com/shrielenee/embroidery-basics/issues).
 
 ## Contact
 
