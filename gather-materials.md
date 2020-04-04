@@ -8,6 +8,7 @@ There are numerous online resources to help you along the way with tutorials, su
 *  [Hawthorne Handmade](https://www.hawthornhandmade.com/)
 *  Local stitching meetups
 *  [Instagram](https://www.instagram.com/explore/tags/embroidery/)
+*  [Etsy](https://www.etsy.com/search?q=embroidery%20pattern)
 
 See more info about these resources in the [Resources topic](/resources.md).
 
@@ -23,7 +24,7 @@ A simple line drawing design of about 3-5" is a good place to start. Something a
 
 Deciding what to stitch is always daunting for me! I have so many ideas and see so much inspiration online. I use [Pinterest](https://www.pinterest.com/shrie/stitchery/), as well as [Instagram](https://www.instagram.com/shrielenee/saved/), to gather drawings, designs, or inspiration that speak to me.
 
-I sometimes buy pre-made patterns [from Sublime Stitching](https://sublimestitching.com/collections/hand-embroidery-patterns) instead of retrofitting or designing my own. I also have a small collection of embroidery or textile craft books that I also use as templates or inspiration, such as [Yumiko Higuchi's "A Year of Embroidery"](https://www.amazon.com/Year-Embroidery-Month-Month-Collection/dp/1611804728/ref=sr_1_3?crid=1KBLR8ZPCPS8U&dchild=1&keywords=yumiko+higuchi&qid=1585332284&sprefix=yumiko+%2Caps%2C168&sr=8-3).
+I sometimes buy pre-made patterns [from Sublime Stitching](https://sublimestitching.com/collections/hand-embroidery-patterns) or [Etsy](https://www.etsy.com/search?q=embroidery%20pattern) instead of retrofitting or designing my own. I also have a small collection of embroidery or textile craft books that I also use as templates or inspiration, such as [Yumiko Higuchi's "A Year of Embroidery"](https://www.amazon.com/Year-Embroidery-Month-Month-Collection/dp/1611804728/ref=sr_1_3?crid=1KBLR8ZPCPS8U&dchild=1&keywords=yumiko+higuchi&qid=1585332284&sprefix=yumiko+%2Caps%2C168&sr=8-3).
 
 You can use many things as embroidery patterns, including:
 

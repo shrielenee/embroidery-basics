@@ -17,6 +17,7 @@ Sections include:
       *  [Use Sticky Fabri-Solvy](prepare-project.md#use-sticky-fabri-solvy)
    *  [Mount your fabric](prepare-project.md#mount-your-fabric)
    *  [Set yourself up for success](prepare-project.md#set-yourself-up-for-success)
+*  [Stitching basics](stitching-basics.md)
 *  [Resources](resources.md)
 
 ## Contribute

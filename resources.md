@@ -16,6 +16,7 @@ A few recommended places to source materials include:
 *  [**Sublime Stitching**](https://sublimestitching.com/)---The penultimate embroidery shop. Jenny Hart, a former Austinite and current Californian, started Sublime out of her house in Windsor Park, Austin (right around the corner from my house!) before expanding a bit and moving to California. Their website has tutorials, materials, and inspiration galore. Sign up for the newsletter to get free tutorials delivered right to your email.
 *  [**Hawthorne Handmade**](https://www.hawthornhandmade.com/)---Hawthorne Handmade makes beautiful embroidery hoops for displaying or gifting your stitching and other high-end embroidery supplies.
 *  **Local stitching meetups**---Search Meetup.com or Facebook to see if there is a stitching meetup in your area. I am a member of two casual stitching Facebook groups that do both virtual and in-person meetups.
+*  [**Etsy**](https://www.etsy.com/search?q=embroidery%20pattern)---Etsy has a lot of great patterns from some talented stitchers. Ensure the one you purchase is an embroidery pattern, not cross-stitch or crewel or any other stitching discipline. We're embroidering here, people!
 
 ## Inspiration
 
