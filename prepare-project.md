@@ -80,7 +80,7 @@ Sticky Fabri-Solvy is pretty cool (as mentioned in the [Gather materials](#gathe
 
 You can print, copy, or draw right on the Sticky Fabri-Solvy material. Then, just remove the paper backing and stick to your fabric [mounted up in a hoop](#mount-your-fabric). You can reposition and smooth wrinkles as you go---no worries!
 
-Stitch right over the Sticky Fabri-Solvy layer as you would on a lone piece of fabric. When you're ALL done you can dip your fabric (with stitching and Sticky Fabr-Solvy material) into a bowl of water and watch the Sticky Fabr-Solvy dissolve away.
+Stitch right over the Sticky Fabri-Solvy layer as you would on a lone piece of fabric. When you're ALL done you can dip your fabric (with stitching and Sticky Fabr-Solvy material) into a bowl of water and watch the Sticky Fabri-Solvy dissolve away.
 
 Learn more about [Sticky Fabri-solvy tips and tricks](https://www.shinyhappyworld.com/2014/06/everything-ever-wanted-know-sulky-sticky-fabri-solvy.html) from [shinyhappyworld.com](https://www.shinyhappyworld.com).
 
