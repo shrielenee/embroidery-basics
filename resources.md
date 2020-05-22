@@ -1,7 +1,7 @@
 
 # Resources
 
-Embroidery seems like an old-school craft, but the possibilities are limitless. Stitchers like X are doing really interesting things with hand embroidery. 
+Embroidery seems like an old-school craft, but the possibilities are limitless. Stitchers like X are doing really interesting things with hand embroidery.
 
 Once you have the technique down, and find your groove in regards to preparing all your materials, you can really get creative with your ideas and execution! For instance, I made postcards with with card stock and  images cut from magazines, gift wrap, artwork, etc. that I mod-podged together and then stitched designs over the top of that.
 
