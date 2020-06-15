@@ -122,8 +122,46 @@ I love the way [satin stitch](https://sublimestitching.com/pages/how-to-satin-st
 
 ## Fix mistakes
 
+Mistakes in embroidery, just like with any fiber or fabric art, are inevitable. You don't always keep the back of your work neat and clean, with no knotted up swathes of floss. Sometimes you make a hole in your fabric because you tried to force a french knot. Sometimes, every once in a while, everything becomes a complete tangled wad of floss and you just want to un-hoop it and toss it in the trash can.
+
+Before you do that... wait! You may be able to save your work. See the below sections for fixes to common embroidery problems.
+
+### Fabric is warped
+
+If your fabric, whether on or off the hoop, looks warped or stretched so thin that the fibers are separating or losing form, you may have mounted your fabric too tightly in the hoop.
+
+If you just started stitching, simply un-mount the fabric, mount it back in the hoop a bit more loosely. Tighten the hoop screws just enough to get a taut fabric canvas to work with.
+
+> _**Tip!**_ Take the fabric out of the hoop after you're done stitching each day. Leaving it in the hoop for long periods of time may cause warping or permanent hoop lines on your fabric. Roll it up neatly and store it away from dirt, your pets, your grubby hands, or anything else that may dirty the fabric.
+
+### Backside is tangled
+
+So, you did the whole "the back of my embroidery is a tangled mess" trick, eh? Chill. It will be alright.
+
+Unthread your working floss from your needle. Use your needle to gently pull out each stitch, one after another, so you can back it up and unknot it.
+
+If you have to tie off your floss, cut it, and start again, that's okay! Gentle rip out each stitch, working from back to front (or reverse), being careful not to tear your fabric.
+
+If all else fails, use your tiny scissors to snip the stitching every few stitches and pull it out with your fingers until you can tie a piece off (to secure the _good_ stitches still in the fabric). Remove as many stitches as you need to so you can re-stitch where you need to and continue on!
+
+### French knot created a hole
+
+Now, this one is a doozy. Sometimes, when you are attempting to make a french knot that is a little too big for your fabric, you pull the knot through too hard and it rips the knot right from the front to the back of your fabric, creating a big hole.
+
+If the hole is small enough, you may be able to back your french knot out and create a new one adjacent to the hole (and smaller, so you don't create another stitch blowout) that covers the existing hole.
+
+If the hole is pretty darn big you may be able to use another stitch and stitch right over it to cover it. If you can't do that, you may have to start over. Be gentle with your stitches, friends!
+
+### Hate my stitch choice
+
+So, you decided to try a split stitch but either the stitch or the number of strands you picked doesn't look right. No worries! Treat this similarly to the [Backside is tangled issue](#backside-is-tangled)---Remove your stitches and start again!
+
+### Hate my floss color choice
+
+This is troublesome, but not a giant issue. Simply [remove your stitching](#backside-is-tangled), select a new color, and start again.
+
 ## Finish your embroidery
 
-### Tie off stitching
+## Tie off stitching
 
 https://embroiderersguild.com/index.php?page_no=233&page_menu=starting-to-stitch
